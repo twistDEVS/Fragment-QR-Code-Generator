@@ -1,0 +1,1 @@
+# Fragment-QR-Code-Generator
