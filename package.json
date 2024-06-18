@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "A QR Code Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "twist.DEV",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23",
+    "qr-image": "^3.2.0"
+  }
+}
